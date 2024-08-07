@@ -1,8 +1,8 @@
 {
-    "name": "reputation-system-dapp",
+    "name": "zec-reputation-system-dapp",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "https://github.com/kendraekwueme/reputation-system-dapp.git",
+    "repository": "https://github.com/kendraekwueme456/zec-reputation-system-dapp.git",
     "author": "kendra ekwueme <kendraekwueme@outlook.com>",
     "license": "MIT",
     "private": true,

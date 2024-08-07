@@ -37,7 +37,7 @@ Here are some packages you need to have installed on your PC:
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/kendraekwueme/reputation-system-dapp.git
+   git clone https://github.com/kendraekwueme456/zec-reputation-system-dapp.git
    ```
 2. Install NPM packages
    ```sh
